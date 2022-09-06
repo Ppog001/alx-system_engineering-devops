@@ -1,5 +1,9 @@
 total 108
+<<<<<<< HEAD
 drwxr-xr-x 2 root root 4096 Sep  5 23:00 .
+=======
+drwxr-xr-x 2 root root 4096 Sep  5 22:40 .
+>>>>>>> 59ed4c8964c49c47e1ae2745b1888d5d784ba0ca
 drwxr-xr-x 6 root root  104 Sep  5 11:02 ..
 -rwxr--r-- 1 root root   32 Sep  5 11:09 0-hello_world
 -rw-r--r-- 1 root root   41 Sep  5 22:40 100-empty_casks
@@ -25,7 +29,13 @@ drwxr-xr-x 6 root root  104 Sep  5 11:02 ..
 -rwxr--r-- 1 root root   88 Sep  5 21:11 7-file
 -rwxr--r-- 1 root root   37 Sep  5 21:15 8-cwd_state
 -rwxr--r-- 1 root root   35 Sep  5 21:19 9-duplicate_last_line
+<<<<<<< HEAD
 -rw-r--r-- 1 root root   12 Sep  5 23:00 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
 -rw-r--r-- 1 root root    0 Sep  5 22:40 iacta
 -rw-r--r-- 1 root root    0 Sep  5 23:00 ls_cwd_content
+=======
+-rw-r--r-- 1 root root   12 Sep  5 22:45 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root    0 Sep  5 22:40 iacta
+-rw-r--r-- 1 root root    0 Sep  5 22:45 ls_cwd_content
+>>>>>>> 59ed4c8964c49c47e1ae2745b1888d5d784ba0ca
 -rw-r--r-- 1 root root   53 Sep  5 22:36 README.md
