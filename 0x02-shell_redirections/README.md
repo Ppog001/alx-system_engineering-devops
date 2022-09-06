@@ -1,1 +1,1 @@
-a script that displays all users and their home directories, sorted by users
+A script with the command that finds all empty files
