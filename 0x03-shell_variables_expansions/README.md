@@ -1,1 +1,1 @@
-adding 128 to TRUEKNOWLEDGE
+a script that prints the result of POWER divided by DIVIDE
