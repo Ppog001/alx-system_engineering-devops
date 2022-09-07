@@ -1,1 +1,1 @@
-a script that creates a new global variable
+adding 128 to TRUEKNOWLEDGE
